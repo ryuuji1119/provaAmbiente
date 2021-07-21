@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.example.geometria","l":"Cerchio"},{"p":"com.example.prova","l":"HelloWorld"},{"p":"com.example.geometria.main","l":"Main"},{"p":"com.example.geometria","l":"Rettangolo"},{"p":"com.example.geometria","l":"Square"}]
